@@ -1,3 +1,17 @@
+# Depression_Prediction_Model
+
+This project uses a machine learning model to predict risk of depression based on user input data.
+
+---
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+... *(rest of your local content)* ...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
